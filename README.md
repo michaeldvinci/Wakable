@@ -1,0 +1,2 @@
+# Wakable
+WakaTime Pebble App
